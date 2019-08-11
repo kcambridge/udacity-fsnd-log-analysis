@@ -1,0 +1,32 @@
+Connecting to database...
+Generating report...
+
+
+ *****************************
+ ********** RESULTS **********
+ *****************************
+
+
+ ***** Top 3 Articles of All Time *****
+
+
+Candidate is jerk, alleges rival - 342102 views
+Bears love berries, alleges bear - 256365 views
+Bad things gone, say good people - 171762 views
+
+
+ ***** Author Leaderboard *****
+
+
+Ursula La Multa - 512805 article views
+Rudolf von Treppenwitz - 427781 article views
+Anonymous Contributor - 171762 article views
+
+
+ ***** High Error Days (1% or More) *****
+
+
+2016-07-17 - 1265 errors, 55907 views, 2.26 %
+
+
+ Report generation complete! Have a great day!
